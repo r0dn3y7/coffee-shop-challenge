@@ -2,3 +2,9 @@ from customer import Customer
 
 c1 = Customer("Roddy")
 print(c1.name)
+
+
+from coffee import Coffee
+
+latte = Coffee("Latte")
+print(latte.name)

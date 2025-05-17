@@ -7,4 +7,6 @@ class Coffee:
 
     @property
     def name(self):
-        return self._name  # Immutable: no setter
+        return self._name  
+    
+    
