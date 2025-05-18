@@ -5,12 +5,17 @@
 This is a simple Python Object-Oriented Programming (OOP) project for managing a coffee shop's customers, coffee types, and orders. It demonstrates OOP principles such as classes, attributes, methods, and basic relationships (one-to-many and many-to-many).
 
 ## Project Structure
-coffee_shop_project/
+coffee-shop-challenge/
+├── Pipfile
+├── debug.py
 ├── customer.py
 ├── coffee.py
 ├── order.py
-├── main.py
-└── README.md
+└── tests/
+    ├── customer_test.py
+    ├── coffee_test.py
+    └── order_test.py
+
 
 
 ## Features
