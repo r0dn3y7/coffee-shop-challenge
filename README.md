@@ -47,6 +47,31 @@ coffee-shop-challenge/
 #### `Order`
 - Connects a `Customer` and a `Coffee` with a price
 
+
+
+---
+
+## How to Run
+
+1. Clone the repo:
+
+```bash
+git clone git@github.com:<your-username>/coffee-shop-challenge.git
+cd coffee-shop-challenge
+
+```
+2. Set up Python environment:
+```
+pipenv install
+pipenv shell
+
+```
+3. Run the debug script for manual testing:
+```
+python debug.py
+
+```
+
 ### Example Usage
 
 ```python
