@@ -13,3 +13,19 @@ class Customer:
             self._name = value
         else:
             raise ValueError("Name must be a string between 1 and 15 characters")
+
+
+from order import Order
+
+def orders(self):
+    return [order for order in Order._all if order.customer == self]
+
+def coffees(self):
+    return list({order.coffee for order in self.orders()})
+
+def create_order(self, coffee, price):
+    return Order(self, coffee, price)
+
+Customer.orders = orders
+Customer.coffees = coffees
+Customer.create_order = create_order
