@@ -56,7 +56,7 @@ coffee-shop-challenge/
 1. Clone the repo:
 
 ```bash
-git clone git@github.com:<your-username>/coffee-shop-challenge.git
+git clone github.com/r0dn3y7/coffee-shop-challenge
 cd coffee-shop-challenge
 
 ```
