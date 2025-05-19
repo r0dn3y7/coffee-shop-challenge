@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a simple Python Object-Oriented Programming (OOP) project for managing a coffee shop's customers, coffee types, and orders. It demonstrates OOP principles such as classes, attributes, methods, and basic relationships (one-to-many and many-to-many).
+This is a simple Python Object-Oriented Programming (OOP) project for managing a coffee shop's customers, coffee types, and orders. It demonstrates OOP principles such as classes, attributes, methods, and basic relationships .
 
 ## Project Structure
 coffee-shop-challenge/
